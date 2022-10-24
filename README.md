@@ -1,5 +1,5 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
-<div align="left">
+<div align="center">
   <a href="https://github.com/ruanpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanpereira&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpereira&layout=langs_count=7&theme=aura_dark"/ >
