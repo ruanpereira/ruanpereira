@@ -8,12 +8,12 @@
 ### Exposition of repos that i personally like:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
+  
+### Working currently with:
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
-  <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg">
 </div>
   
