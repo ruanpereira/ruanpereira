@@ -12,8 +12,8 @@
 ### Working currently with:
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
