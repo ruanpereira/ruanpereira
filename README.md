@@ -7,7 +7,7 @@
 </div>
 
   <div align="center">
-    api/pin?username=aktsu_ruan&repo=i3-manjaro
+    < img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=aktsu_ruan&repo=i3-manjaro"/>
   </div>
 
   <div style="display: inline_block"><br>
