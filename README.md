@@ -9,7 +9,7 @@
 </div>
 
   <div align="center">
-    < img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=aktsu_ruan&repo=i3-manjaro"/>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=i3-manjaro)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
   <div style="display: inline_block"><br>
