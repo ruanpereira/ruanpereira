@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpereira&layout=langs_count=7&theme=aura_dark"/ >
 </div>
 
-### Repos that i am more proud:
+### Exposition of repos that i personally like:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro)](https://github.com/ruanpereira/I3-Manjaro)
 
