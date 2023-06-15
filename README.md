@@ -8,6 +8,8 @@
 ### Exposition of repos that i personally like:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
   
 ### Working currently with:
 
