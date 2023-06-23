@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=aura_dark)](https://github.com/ruanpereira/I3-Manjaro)
   
-### Working currently with:
+<h2 align="center">Working currently with:</h2>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
