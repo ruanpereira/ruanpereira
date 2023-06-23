@@ -3,9 +3,9 @@
 <h2 align="center">Repos that i personally like:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=Arch_EXP&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/Arch_EXP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=midnight-purple)](https://github.com/ruanpereira/I3-Manjaro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=midnight-purple)](https://github.com/ruanpereira/I3-Manjaro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=midnight-purple)](https://github.com/ruanpereira/I3-Manjaro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=HIDS-Transformers-Study&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/HIDS-Transformers-Study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=CPP-Learn&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/CppLearn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=I3-Manjaro&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/I3-Manjaro)
 
 <h2 align="center">Working currently with:</h2>
 
