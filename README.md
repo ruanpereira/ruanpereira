@@ -1,15 +1,19 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
 
 
-<h2 align="center">GitHub Stats:</h3>
+<h2 align="center">GitHub Stats Test:</h3>
 
 <div align="center">
   <a href="https://github.com/ruanpereira">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruanpereira&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&line_height=20"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruanpereira&layout=compact&theme=aura_dark&line_height=20"/ >
     <img src="https://github-readme-stats.vercel.app/api?username=ruanpereira&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="aktsu_ruan" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruanpereira&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="aktsu_ruan" />
 </div>
+
+<h2 align="center">GitHub Stats Test:</h3>
+<div align="center">
+  [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanpereira)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ruanpereira">
+<\div>
 
 ### Exposition of repos that i personally like:
 
