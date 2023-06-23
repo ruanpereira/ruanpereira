@@ -18,7 +18,7 @@
 <h2 align="center">Working currently with:</h2>
 
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,latex,cpp,py,tensorflow,pandas,conda&perline=10">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,latex,cpp,py,tensorflow,pd,conda&perline=10">
 
 </div>
   
