@@ -3,7 +3,7 @@
 
 <h2 align="center">GitHub Stats:</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanpereira&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
 
 <div align="center">
   <a href="https://github.com/ruanpereira">
