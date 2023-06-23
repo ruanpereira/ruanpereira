@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ruanpereira">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruanpereira&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&line_height=20"/>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruanpereira&layout=langs_count=7&theme=aura_dark"/ >
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruanpereira&layout=compact&theme=aura_dark"/ >
 </div>
 
 ### Exposition of repos that i personally like:
