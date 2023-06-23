@@ -17,7 +17,7 @@
   
 <h2 align="center">Working currently with:</h2>
 
-  <div align=center style="display: inline_block"><br>
+  <div align=center>
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
