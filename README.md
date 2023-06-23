@@ -1,5 +1,7 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
 
+ <img  src="https://github.com/ruanpereira/Arch_EXP/blob/ad0555f2522bb94071100c6714fca104a3395462/wallpapers/FrC7MouXoAAIE2V.jpg" width="100%" />
+
 <h2 align="center">Repos that i personally like:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=Arch_EXP&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/Arch_EXP)
