@@ -1,4 +1,8 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
+
+
+<h2 align="center">GitHub Stats:</h3>
+
 <div align="center">
   <a href="https://github.com/ruanpereira">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruanpereira&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&line_height=20"/>
