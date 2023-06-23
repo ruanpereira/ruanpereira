@@ -18,7 +18,7 @@
 <h2 align="center">Working currently with:</h2>
 
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,latex,py,cpp,tf,pandas&perline=10">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,latex,py,cpp,tensorflow,pandas&perline=10">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" alt="Ruan-Pereira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
