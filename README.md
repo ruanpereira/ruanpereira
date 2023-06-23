@@ -1,7 +1,7 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
 
 
-<h2 align="center">GitHub Stats Test:</h3>
+<h2 align="center">GitHub Stats:</h2>
 
 <div align="center">
   <a href="https://github.com/ruanpereira">
