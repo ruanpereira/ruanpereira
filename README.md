@@ -20,10 +20,5 @@
 </div>
 
 <h2 align="center">GitHub Stats:</h2>
-<div align="center">
-  <a href="https://github.com/ruanpereira">
-    <img src="https://github-stats-extended.vercel.app/api?username=ruanpereira&show_icons=true&line_height=20&theme=midnight-purple&count_private=true" alt="aktsu_ruan" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" alt="aktsu_ruan" />
-</div>
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&langs_count=4&theme=midnight-purple)
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple)
