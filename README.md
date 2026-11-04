@@ -1,6 +1,6 @@
 ### hi, welcome to my profile! trying to enter the cybersecurity world, linux enthusiast, free-time programmer, telecommunications undergraduate.
 
-### 👨💻 About Me
+### 💻 About Me
 - 🎓 **Telecommunications Engineering** undergraduate at **Universidade Federal do Ceará (UFC)**, with a technical background in Computer Networks and research experience at **GTEL** (Wireless Telecommunications) and **LESC** (Embedded Systems).
 - 📡 **Wireless Networks & Software-Defined Radio (SDR)**: Experimentation and emulation of **4G/5G mobile networks** (Open5GS, srsRAN, OpenAirInterface) using OpenRAN concepts, SDR platforms, and telemetry data collection with Python and C++.
 - 🐧 **Linux Systems & DevOps**: Advanced experience with Linux internals and custom environments (**Arch Linux**, **Gentoo**, Debian), shell automation, system monitoring (`systemd`, logs), and containerized workflows with **Docker** & **Kubernetes**.
