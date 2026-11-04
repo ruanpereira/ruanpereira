@@ -41,17 +41,3 @@
   <div align=center>
     <img src="https://skillicons.dev/icons?i=linux,git,github,latex,py&perline=10">
   </div>
-
-<h2 align="center">github numbers:</h2>
-
-  <div align=center>
-    <a href="https://github-stats-extended.vercel.app/api?username=ruanpereira">
-      <picture>
-        <source
-          srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple" />
-      </picture>
-    </a>
-  </div>
