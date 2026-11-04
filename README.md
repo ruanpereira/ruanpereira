@@ -2,8 +2,10 @@
 
 <h2 align="center">Linux learning based repos:</h2>
 
+<div align="center">
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ruanpereira&repo=Arch_EXP&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/Arch_EXP)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ruanpereira&repo=gentoo_EXP&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/gentoo_EXP)
+</div>
 
 <h2 align="center">Working currently with:</h2>
 
