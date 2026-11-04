@@ -9,14 +9,15 @@
 
 <h2 align="center">linux learning based repos:</h2>
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2FArch_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/Arch_EXP)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/gentoo_EXP)
+  <div align=center>
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2FArch_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/Arch_EXP)
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/gentoo_EXP)
+  </div>
 
 <h2 align="center"> technologies used:</h2>
 
   <div align=center>
     <img src="https://skillicons.dev/icons?i=linux,git,github,latex,py&perline=10">
-
   </div>
 
 <h2 align="center">github numbers:</h2>
@@ -32,13 +33,14 @@
     </a>
   </div>
 
-<a href="https://github-stats-extended.vercel.app/api?username=ruanpereira">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="100" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple" />
-  </picture>
-</a>
-
+  <div align=center>
+    <a href="https://github-stats-extended.vercel.app/api?username=ruanpereira">
+      <picture>
+        <source
+          srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img height="100" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple" />
+      </picture>
+    </a>
+  </div>
