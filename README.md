@@ -62,7 +62,7 @@
           srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple"
           media="(prefers-color-scheme: dark)"
         />
-        <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple" />
+        <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&langs_count=4&theme=midnight-purple" />
       </picture>
     </a>
   </div>
