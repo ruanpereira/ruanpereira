@@ -1,8 +1,6 @@
 ### Hi, welcome to my profile! Not the most bealtiful one, but works well! Tech spec guy and programmer.
 
- <img  src="https://github.com/ruanpereira/Arch_EXP/blob/1c825bde656342afd51ed4581f0640df32ebbc38/wallpapers/wp6077197-hd-anime-purple-wallpapers_cropped.jpg" />
-
-<h2 align="center">Repos that i personally like:</h2>
+<h2 align="center">Linux learning based repos:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=Arch_EXP&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/Arch_EXP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanpereira&repo=HIDS-Transformers-Study&theme=midnight-purple&show_owner=true)](https://github.com/ruanpereira/HIDS-Transformers-Study)
