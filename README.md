@@ -15,7 +15,7 @@
 <h2 align="center"> technologies used:</h2>
 
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,latex,cpp,py,tensorflow&perline=10">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,latex,py&perline=10">
 
 </div>
 
