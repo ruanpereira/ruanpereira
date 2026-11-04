@@ -26,3 +26,4 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" alt="aktsu_ruan" />
 </div>
   
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ruanpereira&langs_count=4&theme=midnight-purple)
