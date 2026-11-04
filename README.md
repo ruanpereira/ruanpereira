@@ -7,13 +7,10 @@
 - 🛡️ **Cybersecurity & Traffic Analysis**: Network reconnaissance, protocol traffic analysis (MQTT, TCP/IP, Wireshark), and host intrusion detection (HIDS powered by Machine Learning/Transformers), backed by **Cisco Networking Academy** credentials.
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2FArch_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/Arch_EXP)
-
 <h2 align="center">Linux learning based repos:</h2>
 
-<div align="center">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2FArch_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/Arch_EXP)
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/gentoo_EXP)
-</div>
 
 <h2 align="center">Working currently with:</h2>
 
