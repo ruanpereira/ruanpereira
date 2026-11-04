@@ -9,6 +9,7 @@
 
 <h2 align="center">linux learning based repos:</h2>
 
+
 <a href="https://github.com/ruanpereira/github-readme-stats">
     <picture>
       <source
@@ -34,7 +35,8 @@
       />
     </picture>
 </a>
-    
+
+<div align=center>
     <a href="https://github.com/ruanpereira/github-readme-stats">
       <picture>
         <source
@@ -47,10 +49,19 @@
         />
       </picture>
     </a>
-
-
-      [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2FArch_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/Arch_EXP)
-    [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/ruanpereira/gentoo_EXP)
+    <a href="https://github.com/ruanpereira/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        align="center"
+        src="https://github-stats-extended.vercel.app/api/pin?username=ruanpereira&repo=ruanpereira%2Fgentoo_EXP&show_owner=true&disable_animations=false&theme=midnight-purple"
+      />
+    </picture>
+    </a>
+</div>
 
 <h2 align="center"> technologies used:</h2>
 
